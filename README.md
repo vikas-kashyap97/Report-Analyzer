@@ -27,7 +27,7 @@ Smart Report Analyzer is an LLM-powered web app built with **Streamlit**, powere
 ## 📁 Project Structure
 
  Smart-Report-Analyzer/ 
- ├── app.py # Main Streamlit app 
+ ├── app.py # Main Streamlit application 
  
  ├── requirements.txt 
  
