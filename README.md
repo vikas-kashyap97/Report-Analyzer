@@ -7,7 +7,7 @@ Smart Report Analyzer is an LLM-powered web app built with **Streamlit**, powere
 
 ## 🚀 Features
 
-- 📄 Upload **PDF**, **CSV**, or **Excel** files
+- 📄 Upload **PDF**, **CSV**, **DOCX**, or **Excel** files
 - 🔍 Automatic **data preview** and **exploratory data analysis (EDA)**
 - ✨ Generate smart **summaries** from structured or unstructured content
 - 💬 Ask natural language questions and get answers powered by **Hugging Face LLMs**
